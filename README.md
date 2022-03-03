@@ -8,16 +8,22 @@ Pinout：https://github.com/up-board/up-community/wiki/Pinout_UPSPro
 
 本项目为将Up Squared Pro转接到ITX规格的PCB工程
 
+![](itx4ups_pro_pcb_top.png)![](itx4ups_pro_pcb_bottom.png)
+
 ## PCB配置
 
 - 固定UPSP的孔位
 - ATX-24插座
-- USB供电口 x5
+- USB-A供电口 x4
+- USB-C供电口 x1
 - USB常电供电口 x3
-- 12V 5.5x2.1插座 x3
+- 12V 电池插座 x2
+- 12V 5.5x2.1供电插座 x2
 - UPSP 12V 供电焊盘
 - ATX电源供电开关
 - UPSP开关
+- 电源灯排针(5v pwr_ok)
+- 电源使能接口
 
 ## 电源输出能力
 
